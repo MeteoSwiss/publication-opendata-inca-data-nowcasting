@@ -1,4 +1,4 @@
-# publication-opendata-inca
+# publication-opendata-inca-data-nowcasting
 
 Example files for [2.4.1. INCA data (nowcasting)](https://github.com/MeteoSwiss/publication-opendata/tree/main#252-241-inca-data-nowcasting).
 
